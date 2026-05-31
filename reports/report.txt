@@ -1,0 +1,21 @@
+
+DATA CLEANING REPORT
+========================
+
+Files Processed : 140
+Final Rows      : 100000
+Total Columns   : 11
+
+Cleaning Steps:
+- Merged multiple CSV files
+- Removed duplicates
+- Cleaned actual_price
+- Cleaned discount_price
+- Cleaned ratings
+- Cleaned no_of_ratings
+- Filled missing values
+- Standardized text fields
+- Sampled 100000 rows for Power BI
+
+Output File:
+../data/cleaned/amazon_cleaned_data.csv

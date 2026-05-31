@@ -88,6 +88,11 @@ SmartClean-BI/
 
 ├── README.md
 
+
+## Dashboard Preview
+
+![Dashboard Preview](powerbi/dashboard_screenshot.png)
+
 ## Expected Outcomes
 
 * Understanding of data preprocessing techniques
